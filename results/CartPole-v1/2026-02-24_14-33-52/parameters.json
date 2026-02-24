@@ -1,0 +1,35 @@
+{
+    "load_weights": false,
+    "save_weights": false,
+    "training_mode": true,
+    "reward_threshold": 500,
+    "render": false,
+    "n_update": 128,
+    "n_episode": 1000,
+    "policy_params": 20,
+    "entropy_coef": 0.05,
+    "vf_loss_coef": 1.0,
+    "batchsize": 32,
+    "T": 4,
+    "gamma": 0.99,
+    "lam": 0.95,
+    "learning_rate": 0.001,
+    "env_name": "CartPole-v1",
+    "schedule_pows": [
+        -0.2,
+        -0.5,
+        -1.5
+    ],
+    "seeds": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        777,
+        999
+    ]
+}
