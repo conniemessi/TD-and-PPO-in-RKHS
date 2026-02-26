@@ -68,3 +68,6 @@ TD-and-PPO-in-RKHS/
         └── {timestamp}/
             └── ...
 ```
+
+## Reference
+- https://github.com/wisnunugroho21/reinforcement_learning_truly_ppo/tree/master
