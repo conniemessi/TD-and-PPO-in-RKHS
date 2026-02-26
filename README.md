@@ -71,3 +71,16 @@ TD-and-PPO-in-RKHS/
 
 ## Reference
 - https://github.com/wisnunugroho21/reinforcement_learning_truly_ppo/tree/master
+
+## Citation
+
+If you find this code useful in your research, please cite:
+
+```bibtex
+@inproceedings{zou2026sampling,
+  title     = {Sampling Complexity of TD and PPO in RKHS},
+  author    = {Zou, Lu and Ren, Wendi and Zhang, Weizhong and Ding, Liang and Li, Shuang},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2026}
+}
+```
